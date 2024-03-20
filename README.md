@@ -1,2 +1,2 @@
-# R-M-APP
+# RandM-APP
 Rick &amp; morty app
